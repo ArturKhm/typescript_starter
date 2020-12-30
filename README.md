@@ -9,3 +9,9 @@ https://www.cygwin.com/
 Менеджер версий Node.js
 https://github.com/coreybutler/nvm-windows/releases
 
+Открываем Cmder и пишем
+
+Список всех команд
+nvm --help
+nvm list available
+
