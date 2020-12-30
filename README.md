@@ -14,4 +14,6 @@ https://github.com/coreybutler/nvm-windows/releases
 Список всех команд
 nvm --help
 nvm list available
+nvm install ПОСЛЕДНЯЯ_ВЕРСИЯ_СПИСКА_ВЫШЕ
+
 
