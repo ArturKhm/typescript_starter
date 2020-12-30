@@ -27,6 +27,8 @@ https://github.com/coreybutler/nvm-windows/releases
         # Переходим в папку, где храняться проекты (может быть любая другая)
         cd c:\project 
         
+        git clone РЕПОЗИТОРИЙ
         
+        Установить Visual Studio Community
 
 
