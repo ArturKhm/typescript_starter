@@ -23,6 +23,8 @@ https://github.com/coreybutler/nvm-windows/releases
         # Проверить, что Node.js установлен и нужной версии
         node --version
         
+        npm i -g pnpm npm-check my_wins
+        
         # Переходим в папку, где храняться проекты (может быть любая другая)
         cd c:\project 
         
